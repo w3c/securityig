@@ -14,6 +14,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 # Tools 
 
 * [Chair Dashboard](https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security)
+* [Horizontal Dashboard](https://www.w3.org/PM/horizontal/board.html?name=Security)
 * [Comment Tracker](https://www.w3.org/PM/horizontal/?repo=w3c/security-review)
 
 
