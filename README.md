@@ -3,9 +3,10 @@
 This GitHub repository serves the [W3C Security Interest Group](https://www.w3.org/groups/ig/security/). 
 
 # Security Reviews
+
 * **Do you need a security review?** Open an [issue in the w3c/security-request repository](https://github.com/w3c/security-request/issues/new/choose)
-* **Would you like to do a security review?** Read the [how to](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md)
-* Thanks to our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
+* **Would you like to do a security review?** Join us ([how to contribute](CONTRIBUTING.md)), and read the [how to review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md)
+* Thanks our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
   
 # Administration
 
@@ -18,9 +19,9 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 * [Horizontal Dashboard](https://www.w3.org/PM/horizontal/board.html?name=Security)
 * [Comment Tracker](https://www.w3.org/PM/horizontal/?repo=w3c/security-review)
 
-
-# Code of Conduct
-As a W3C Interest Group, all work and communication within the Security IG is covered by the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/).
+# Pages
+* [Contribution guidelines](CONTRIBUTING.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
 
 <!--
 
