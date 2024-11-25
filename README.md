@@ -3,13 +3,14 @@
 This GitHub repository serves the [W3C Security Interest Group](https://www.w3.org/groups/ig/security/). 
 
 # Security Reviews
-* Do you need a security review? Open an [issue in the w3c/security-request repository](https://github.com/w3c/security-request/issues/new/choose)
-* Thanks to our [Security Reviewers Leaderboard](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
+* **Do you need a security review?** Open an [issue in the w3c/security-request repository](https://github.com/w3c/security-request/issues/new/choose)
+* **Would you like to do a security review?** Read the [how to](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md)
+* Thanks to our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
   
 # Administration
 
 * [Administration](https://github.com/w3c/securityig/administration)
-* [Meetings](https://github.com/w3c/securityig/administration)
+* [Meetings](https://github.com/w3c/securityig/meetings)
 
 # Tools 
 
