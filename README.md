@@ -21,6 +21,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 
 # Pages
 * [Contribution guidelines](CONTRIBUTING.md)
+* [Governance and roles](GOVERNANCE.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
 
 <!--
