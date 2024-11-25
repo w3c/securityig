@@ -34,7 +34,7 @@ Invited Experts are described as follows:
 
 > W3C Invited Experts are individuals who are invited by a chair of a Working or Interest Group to participate in that group. The chair and the W3C staff must agree that the individual brings particular expertise to the group prior to inviting the individual.
 
-### Invitations
+#### Invitations
 
 The Chairs and Staff Contact expect to invite individuals to participate in the Interest Group as Invited Experts in a manner consistent with the [W3C Invited Expert policy](https://www.w3.org/invited-experts/) and IG Charter.
 
@@ -46,7 +46,7 @@ Once the Chairs have extended an invitation to someone to join as an Invited Exp
 
 Individuals are welcome to contact the Chairs and Staff Contact to initiate a discussion about participation as an Invited Expert.
 
-### Expectations
+#### Expectations
 
 We expect Security Interest Group participants to contribute, which can take the form of:
  - Participating in security reviews
