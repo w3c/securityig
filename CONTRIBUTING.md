@@ -9,7 +9,9 @@ There are three ways to participate:
 
 ## Expectations
 
-We generally welcome anyone interested in working on and improving security on the Web. However, we expect Security Interest Group participants to contribute, which can take the form of participating in privacy reviews, scribing calls, participating in discussions, among other things. Inactive or non-contributing invited experts may not be renewed.
+We generally welcome anyone interested in working on and improving security on the Web. However, we expect Security Interest Group participants to contribute, which can take the form of participating in security reviews, scribing calls, participating in discussions, among other things. 
+
+Inactive or non-contributing invited experts may not be renewed.
 
 ## Notes
 
