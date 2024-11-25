@@ -6,7 +6,7 @@ Editor: @simoneonofri
 
 # Policy
 
-This document describes and specificies the participation stated in the [Security Interest Group charter](https://www.w3.org/2024/11/security-ig-charter.html). 
+This document details the participation stated in the [Security Interest Group charter](https://www.w3.org/2024/11/security-ig-charter.html). 
 
 ## Expertise
 
@@ -60,7 +60,7 @@ We expect Security Interest Group participants to contribute, which can take the
 
 ## I don't work for a W3C Member. Can I join the group?
 
-Potentially, yes (per this policy).
+Potentially, yes (per the charter).
 
 ## I work for a W3C Member. Can I join as an Invited Expert?
 
@@ -68,7 +68,10 @@ No. Individuals who work for a W3C Member organization participate as representa
 
 ## Are there patent licensing obligations associated with participation in an Interest Group?
 
-No. There are no patent licensing obligations associated with participation in an Interest Group. However see the [disclosure obligations](https://www.w3.org/policies/patent-policy/20200915/#sec-disclosure-requirements) for Interest Group participants.
+Potentially.
+ - There are no patent licensing obligations associated with participation in an Interest Group. However see the [disclosure obligations](https://www.w3.org/policies/patent-policy/20200915/#sec-disclosure-requirements) for Interest Group participants.
+ - When a participant of this Interest Group contributes to a technical submission reviewing or marking comments on deliverables by other groups, they must agree to the terms of the [W3C Patent Policy](https://www.w3.org/policies/patent-policy/) and [License Grants from Non-Participants](https://www.w3.org/policies/process/#contributor-license).
+
 
 ## Can I subscribe to the mailing list even if I am not a participant?
 
@@ -80,3 +83,9 @@ See also:
 
 * [Invited Experts](https://www.w3.org/invited-experts/)
 * [Group charters](https://www.w3.org/groups/ig/security/charters/)
+
+Similar documents:
+* [Privacy WG Invite expert invitations](https://github.com/w3c/privacywg/blob/main/invited-experts.md)
+* [Invited Expert Policy for the Sustainable Web Interest Group](https://github.com/w3c/sustainableweb-ig/blob/main/ie-policy.md)
+
+
