@@ -1,6 +1,7 @@
 # Reporting Security Issues
 
 Status: Draft
+
 Editor: Simone Onofri
 
 W3C Team and community take security bugs seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
