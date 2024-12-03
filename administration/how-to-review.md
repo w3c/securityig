@@ -10,7 +10,7 @@ Please feel free to reach out with any questions or concerns you have.
 
 
 ## Goals
-This document is intended to provide a guide for how the privacy review process works, and procedurally how to find, conduct, and complete a privacy privacy review.
+This document is intended to provide a guide for how the security review process works, and procedurally how to find, conduct, and complete a security review.
 
 This document does not describe the *substance* of a review, or the kinds of issues to look for in a spec you're reviewing.
 
@@ -28,7 +28,7 @@ and [how to present your findings with the proposed spec's authors](#finishing-a
 
 ### <a id="finding-new-proposals" />1. Identifying Proposals To Review
 The security review process begins by a group formally requesting a security review.
-Groups request a review by creating an issue in IF's [security-request repo on GitHub](https://github.com/w3c/security-request/).
+Groups request a review by creating an issue in the [security-request repo on GitHub](https://github.com/w3c/security-request/).
 New requests will appear as [open issues](https://github.com/w3c/security-request/issues).
 
 Sometimes, Security IG chairs or team contact may approach area experts directly or take on the review themselves.
@@ -38,15 +38,15 @@ Most likely this will make their day and they'll happily assign the review to yo
 Usually a proposal is reviewed by just one or two Security IG members.
 This is more common when a proposed spec is very long, highly technical, or one of the reviewers is new to the process.
 
-Security IG keeps track of which reviewer(s) are reviewing which spec by using the "assigned to" field on each privacy-request issue.
+Security IG keeps track of which reviewer(s) are reviewing which spec by using the "assigned to" field on each security-request issue.
 [Review #71](https://github.com/w3c/security-request/issues/71), for example, was reviewed by one reviewer.
 
-@@TODO: Security IG communication for security reviews is mostly done over Slack.
-@@TODO: If you would like to participate in reviews, but are not yet on the Security IG Slack workspace, please contact a Security IG chair.
+Security IG communication for security reviews is mostly done over Slack.
+If you would like to participate in reviews, join in the [W3C Community Slack workspace](https://www.w3.org/wiki/Slack), you will find us in the [#sing](https://w3ccommunity.slack.com/archives/C083DKWSAJX) channel.
 
 
 ### <a id="reviewing-a-spec" />2. Conducting the Review
-Once you've been assigned a privacy review, you can find the proposed spec to review in the text of the privacy-review issue. 
+Once you've been assigned a security review, you can find the proposed spec to review in the text of the security-review issue. 
 For example, [Review #71](https://github.com/w3c/security-request/issues/71) is a request from the [Devices and Sensors Working Group](https://www.w3.org/groups/wg/das/)),
 requesting a review of the [Vibration API](https://w3c.github.io/vibration/) proposal, the URL of which is https://w3c.github.io/vibration/.
 
@@ -84,7 +84,7 @@ The review discussion process:
    - The goal is to provide the rest of WG with an understanding of the goals of the proposal, and enough background to understand the security issues you've identified (and to suggest additional possible areas of concern).
    - It is helpful to describe the spec functions and features.
 2. Issues Presentation:
-   - Reviewers describe each privacy issue they identified during their review.
+   - Reviewers describe each security issue they identified during their review.
    - These might be issues the reviewer is confident about, or concerns the reviewer was unsure about, and wanted to bring to IG's attention for further discussion and consideration.
    - IG as a group will discuss each issue as needed.
    - After discussion, the reviewer will retain, discard, or alter the security issues they've identified as the reviewer sees fit.
