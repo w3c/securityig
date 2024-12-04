@@ -5,7 +5,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 # Security Reviews
 
 * **Do you need a security review?** Open an [issue in the w3c/security-request repository](https://github.com/w3c/security-request/issues/new/choose)
-* **Would you like to do a security review?** Join us ([how to contribute](CONTRIBUTING.md)), and read the [how to review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md)
+* **Would you like to do a security review?** Join us ([how to contribute](CONTRIBUTING.md)), read the [how to review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md), and look at our [backlog](https://github.com/w3c/security-request/issues)
 * Thanks our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
   
 # Administration
