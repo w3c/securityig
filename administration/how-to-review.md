@@ -14,7 +14,6 @@ This document is intended to provide a guide for how the security review process
 
 This document does not describe the *substance* of a review, or the kinds of issues to look for in a spec you're reviewing.
 
-
 If you have questions about about the substance of a review you're conducting, please reach out to the Security IG chairs.
 
 
@@ -140,7 +139,7 @@ We understand that obligations and availability change over time, and we'll be g
 ## Links And Resources
 - [Security IG Home Page](https://www.w3.org/groups/ig/security/)
 - [Security IG "Security Requests" Repo](https://github.com/w3c/security-request/)
-- []
+
 # Further links
 - [How to do Wide Review](https://www.w3.org/Guide/documentreview/)
 - [Review label cheat sheet](https://w3c.github.io/horizontal-issue-tracker/HOWTO) - how to use the issue tracker
