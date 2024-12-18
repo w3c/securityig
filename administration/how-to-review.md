@@ -55,8 +55,12 @@ Often the working group requesting the review will include links to additional r
 For example, in [security #71](https://github.com/w3c/security-request/issues/71),the working group included a link the MDN entry, as here was not available an "explainer" (or a high level, less technical document summarizing the aims and means of the more technical document).
 
 When reviewing the proposal, you should take care to read the entire proposal.
-A comprehensive list of technical issues to consider is beyond the scope of this document, but the W3C's [Security and Privacy Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/)
-(co-maintained by horizontal groups) may be helpful in identifying questions and issues to consider during your review.
+
+A comprehensive list of technical issues to consider is beyond the scope of this document, there are some documents that can be useful to understand technical issues:
+ - W3C's [Security and Privacy Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/) (co-maintained by horizontal groups) may be helpful in identifying questions and issues to consider during your review.
+ - W3C's [TPAC Presentation for Threat Modeling for Standards Developers](https://docs.google.com/presentation/d/1zauMqnZ_e0U3JlNe3bCJacNh9h1VOkBX4_UynjqvQeg/edit).
+ - IETF's [RFC 3552](https://datatracker.ietf.org/doc/html/rfc3552) as it is referred by the Questionnaire, in particular Section 5 to understand the good structure of Security Considerations section.
+ - IETF's [IETF Security Area Review Issues](https://wiki.ietf.org/group/secdir/SecDirReview/TypicalSECAreaIssues) may be useful to understand issues to look for.
 
 Note the issues you identify during your review for later discussion. 
 Issues could either be specific issues you've identified, or general concerns you're not sure about and would like to discuss with other members in the Security IG.
@@ -88,8 +92,7 @@ The review discussion process:
    - IG as a group will discuss each issue as needed.
    - After discussion, the reviewer will retain, discard, or alter the security issues they've identified as the reviewer sees fit.
 
-**Note that issues from security reviews are filed as individuals, not collectively by IG
-as a group.**
+**Note that issues from security reviews are filed as individuals, not collectively by IG as a group.**
 
 This means that individual WG members may disagree on the results of a security review, or might even file contradictory security issues if IG members disagree.
 Disagreement is rare. In the case that a IG security review results in contradictory (or mutually exclusive) issues being filed, its the responsibility
