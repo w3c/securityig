@@ -10,8 +10,8 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
   
 # Administration
 
-* [Administration](https://github.com/w3c/securityig/administration)
-* [Meetings](https://github.com/w3c/securityig/meetings)
+* [Administration](https://github.com/w3c/securityig/tree/main/administration)
+* [Meetings](https://github.com/w3c/securityig/tree/main/meetings)
 
 # Tools 
 * [Chair Dashboard](https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security)
