@@ -5,7 +5,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 # Security Reviews
 
 * **Do you need a security review?** Open an [issue in the w3c/security-request repository](https://github.com/w3c/security-request/issues/new/choose)
-* **Would you like to do a security review?** Join us ([how to contribute](CONTRIBUTING.md)), read the [how to review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md), and look at our [backlog](https://github.com/w3c/security-request/issues)
+* **Would you like to do a security review?** Join us ([how to contribute](CONTRIBUTING.md)), read the [how to review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md), and look at our backlog for [specs](https://github.com/w3c/security-request/issues) or [charters](https://github.com/w3c/strategy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Horizontal+review+requested%22++-label%3A%22Security+review+completed%22+-label%3ACouncil)
 * Thanks our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
   
 # Administration
@@ -13,17 +13,22 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 * [Administration](https://github.com/w3c/securityig/tree/main/administration)
 * [Meetings](https://github.com/w3c/securityig/tree/main/meetings)
 
-# Tools 
+# Tools
+* **Chat**: [#sing](https://w3ccommunity.slack.com/archives/C083DKWSAJX) on [W3C Community Slack](https://www.w3.org/wiki/Slack)
+* **Notes**: [W3C Pad](https://pad.w3.org)
+* **Calendar**: [W3C Calendar to subscribe](https://www.w3.org/groups/ig/security/calendar/)
+  
+# Dashboards 
 * [Chair Dashboard](https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security)
 * [Horizontal Dashboard](https://www.w3.org/PM/horizontal/board.html?name=Security)
 * [Comment Tracker](https://www.w3.org/PM/horizontal/?repo=w3c/security-review)
 * [Review Dashboard with a view issues for each Spec](https://www.w3.org/PM/horizontal/reviews.html)
 
-
 # Pages
 * [Contribution guidelines](CONTRIBUTING.md)
 * [Governance and roles](GOVERNANCE.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
+* [How to contribute with a review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md)
 
 <!--
 
