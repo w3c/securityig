@@ -17,6 +17,8 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 * **Chat**: [#sing](https://w3ccommunity.slack.com/archives/C083DKWSAJX) on [W3C Community Slack](https://www.w3.org/wiki/Slack)
 * **Notes**: [W3C Pad](https://pad.w3.org)
 * **Calendar**: [W3C Calendar to subscribe](https://www.w3.org/groups/ig/security/calendar/)
+* **Mailing-list**: public-securuty@w3.org ([Archives](https://lists.w3.org/Archives/Public/public-security/))
+
   
 # Dashboards 
 * [Chair Dashboard](https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security)
