@@ -1,6 +1,9 @@
 # How to Conduct a Security Review
 (or, "what to expect when you're inspecting a spec")
 
+Status: Draft
+
+Editor: @simoneonofri
 
 ## Questions and Concerns
 This document is managed by Security Interest Group chairs and W3C staff. 
