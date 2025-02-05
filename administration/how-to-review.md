@@ -14,7 +14,7 @@ This document is intended to provide a guide for how the security review process
 
 This document does not describe the *substance* of a review, or the kinds of issues to look for in a spec you're reviewing.
 
-If you have questions about about the substance of a review you're conducting, please reach out to the Security IG chairs.
+If you have questions about the substance of a review you're conducting, please reach out to the Security IG chairs.
 
 
 ## Stages of a Security Review
