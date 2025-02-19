@@ -12,7 +12,7 @@ This is a template to use when doing Security Reviews, so you can organize the a
 
 # [@@ Spec name]
 
-Revievers: @@
+Reviewers: @@
 
 ## Metadata  
  - Reviewed commit: @@
@@ -55,8 +55,8 @@ Revievers: @@
 
 ## Q&A sessions between Groups and Reviewers
 
-### What are we working on? (joint effort to understand, leaded by specs developers, for a quicker understanding/model of the spec)
-### What can go wrong? (joint effort with creativity, leaded by revievers)
+### What are we working on? (joint effort to understand, led by specs developers, for a quicker understanding/model of the spec)
+### What can go wrong? (joint effort with creativity, led by revievers)
 ### What are we going to do about it? (joint effort)
 
 ## References
