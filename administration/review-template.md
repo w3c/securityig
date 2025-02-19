@@ -37,7 +37,7 @@ Reviewers: @@
 
 ## Summary
 
-[@@ short paragraph about the resuts, often is the last part prepared]
+[@@ short paragraph about the results, often is the last part prepared]
 
 ## Security Assumptions 
 
