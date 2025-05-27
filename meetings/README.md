@@ -1,4 +1,4 @@
-# Security Intrest Group Meetings
+# Security Interest Group Meetings
 
 This repository contains agendas, minutes, and other materials from meetings of the [Security Interest Group](https://www.w3.org/groups/ig/security/).
 
