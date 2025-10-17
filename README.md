@@ -6,8 +6,12 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 
 * **Do you need a security review?** Open an [issue in the w3c/security-request repository](https://github.com/w3c/security-request/issues/new/choose)
 * **Would you like to do a security review?** Join us ([how to contribute](CONTRIBUTING.md)), read the [how to review](https://github.com/w3c/securityig/blob/main/administration/how-to-review.md), and look at our backlog for [specs](https://github.com/w3c/security-request/issues) or [charters](https://github.com/w3c/strategy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Horizontal+review+requested%22++-label%3A%22Security+review+completed%22+-label%3ACouncil)
-* Thanks our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
-  
+* Thanks to our [Security Reviewers](https://www.w3.org/PM/horizontal/leaderboard.html?repo=Security)
+
+# Threat Models
+* We have the [Threat Modeling Community Group](https://www.w3.org/groups/cg/tmcg/) to discuss, incubate, and jointly develop (also during calls) various threat models related to security, privacy, and harms. Threat Models can then be adopted by the Security Interest Group or other relevant groups.
+* If you want to create or participate in a Threat Model, you can join the Community Group and make Pull Requests from the [repository](https://github.com/w3c-cg/threat-modeling). 
+
 # Administration
 
 * [Administration](https://github.com/w3c/securityig/tree/main/administration)
@@ -24,7 +28,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 * [Chair Dashboard](https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security)
 * [Horizontal Dashboard](https://www.w3.org/PM/horizontal/board.html?name=Security)
 * [Comment Tracker](https://www.w3.org/PM/horizontal/?repo=w3c/security-review)
-* [Review Dashboard with a view issues for each Spec](https://www.w3.org/PM/horizontal/reviews.html)
+* [Review Dashboard with a view of issues for each Spec](https://www.w3.org/PM/horizontal/reviews.html)
 
 # Pages
 * [Contribution guidelines](CONTRIBUTING.md)
