@@ -22,7 +22,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 * **Notes**: [W3C Pad](https://pad.w3.org)
 * **Calendar**: [W3C Calendar to subscribe](https://www.w3.org/groups/ig/security/calendar/)
 * **Mailing-list**: public-security@w3.org ([Archives](https://lists.w3.org/Archives/Public/public-security/))
-
+* **Publications**: [Group Home](https://www.w3.org/groups/ig/security/publications/)
   
 # Dashboards 
 * [Chair Dashboard](https://www.w3.org/PM/Groups/chairboard.html?gid=ig/security)
