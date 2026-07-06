@@ -6,7 +6,7 @@ Editor: @simoneonofri
 
 # Status of this document
 
-This is a template to use when doing Security Reviews, so you can organize the analysis, especially when there are multiple reviewers.
+Use this template to organize a security review, especially when the review has more than one reviewer. Replace each `@@` placeholder before sharing a completed review.
 
 ---
 
@@ -14,56 +14,95 @@ This is a template to use when doing Security Reviews, so you can organize the a
 
 Reviewers: @@
 
-## Metadata  
- - Reviewed commit: @@
- - Preview: @@
- - Security Request: https://github.com/w3c/security-request/issues/@@
- - Security Questionnaire: https://github.com/w3c/@@
- - Additional documentation (e.g., explainer)
+## Metadata
+- Reviewed commit: @@
+- Preview: @@
+- Security request: https://github.com/w3c/security-request/issues/@@
+- Security questionnaire: https://github.com/w3c/@@
+- Threat model or related security/privacy analysis: @@
+- Additional documentation: @@
 
 ## Abstract
 
-[@@ from the Absract of the spec]
+[@@ Copy or summarize the abstract from the specification.]
 
 ## Use cases
 
-[@@ from the spec, explainer...]
+[@@ Copy or summarize the relevant use cases from the specification, explainer, or review request.]
 
-## Security Cosiderations
+## Security considerations
 
-[@@ from the spec if they are short, or a link]
+[@@ Copy short security considerations from the specification, or link to the relevant section.]
 
 # Review
 
 ## Summary
 
-[@@ short paragraph about the results, often is the last part prepared]
+[@@ Short paragraph summarizing the review results. This is often written last.]
 
-## Security Assumptions 
+## Security assumptions
 
-[@@ list the security assumptions from the specs, or the one that needs to be ]
+[@@ List the security assumptions stated by the specification and any additional assumptions made during the review.]
 
-## Threats and Attakcs
+## As-is threat model
 
-### [@@ threats/attacks list]
+[@@ Reconstruct the current threat-model baseline from the specification, Security Considerations, Privacy Considerations, questionnaire answers, explainer, review request, and related issues. The goal is to identify what the current text already says or implies about the system under analysis, relevant threats, responses, assumptions, delegated responsibilities, and remaining threats.]
 
-**Threat**, [@@ threat/attack descritpion]
+### System under analysis
 
-**Mitigation**, [@@ mitigation descritpion]
+[@@ Summarize what is being specified: capability, actors, components, data flows, trust boundaries, and scope.]
+
+### Current documented responses
+
+[@@ List existing mitigations, reductions, transfers of responsibility, accepted non-goals, or open gaps already visible in the current text.]
+
+## Review delta
+
+[@@ Compare the as-is threat model with the reviewer's analysis. Separate documentation gaps from threats that are not yet addressed.]
+
+### Documentation gaps
+
+[@@ List gaps in the specification or supporting documents, such as missing threat-model material, unclear assumptions, missing response mapping, unclear ownership, or remaining threats that should be documented.]
+
+### New or unaddressed threats
+
+[@@ List threats found by the review that are not yet addressed or clearly documented by the current specification baseline.]
+
+## Threats and attacks
+
+### [@@ Threat or attack title]
+
+**Threat:** [@@ Threat or attack description.]
+
+**Mitigation:** [@@ Existing mitigation, suggested response, or open question.]
+
+**Remaining threat:** [@@ What remains after the mitigation, transfer, acceptance, or open question.]
+
+**Status:** [@@ Tracked issue, needs discussion, resolved, or other status.]
 
 # Notes
 
-## Q&A sessions between Groups and Reviewers
+## Q&A sessions between groups and reviewers
 
-### What are we working on? (joint effort to understand, led by specs developers, for a quicker understanding/model of the spec)
-### What can go wrong? (joint effort with creativity, led by revievers)
-### What are we going to do about it? (joint effort)
+### What is being specified?
+
+[@@ Joint effort to understand the specification. Usually led by specification editors or authors so reviewers can build a quick model of the proposal.]
+
+### Who may use or be affected by it?
+
+[@@ Identify users, implementers, deployers, user agents, websites, non-users, and other affected stakeholders where relevant.]
+
+### What can go wrong?
+
+[@@ Joint effort to identify possible threats, attacks, and security concerns. Usually led by reviewers.]
+
+### How are those threats addressed?
+
+[@@ Identify existing or proposed mitigations, reductions, transfers of responsibility, acceptances, open issues, and remaining threats.]
+
+### Is the analysis good enough for this stage?
+
+[@@ Decide whether the specification and supporting documents give reviewers enough information for the current stage. Record documentation gaps and new or unaddressed threats that need follow-up.]
 
 ## References
-
-
-
-
-
-
-
+- W3C [Threat Modeling Guide](https://www.w3.org/TR/threat-modeling-guide/)
