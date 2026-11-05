@@ -18,6 +18,7 @@ This GitHub repository serves the [W3C Security Interest Group](https://www.w3.o
 * [Meetings](https://github.com/w3c/securityig/tree/main/meetings)
 
 # Tools
+* **Review skills**: [Web Standards Review](https://github.com/simoneonofri/web-standards-review/) is a collection of AI agent skills for standards review and threat modeling, currently in public beta. It supports Codex and Claude Code.
 * **Chat**: [#sing](https://w3ccommunity.slack.com/archives/C083DKWSAJX) on [W3C Community Slack](https://www.w3.org/wiki/Slack)
 * **Notes**: [W3C Pad](https://pad.w3.org)
 * **Calendar**: [W3C Calendar to subscribe](https://www.w3.org/groups/ig/security/calendar/)
